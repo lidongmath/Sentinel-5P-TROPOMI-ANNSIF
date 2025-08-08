@@ -1,4 +1,4 @@
-# Sentinel-5P-TROPOMI-ANNSIF
+# 🌿 Sentinel-5P-TROPOMI-ANNSIF
 
 **Links to global SIF retrievals from Sentinel-5P TROPOMI on Zenodo**
 
@@ -9,7 +9,7 @@ This dataset provides **global** sun-induced chlorophyll fluorescence (SIF) retr
 
 ---
 
-## Data Access
+## 🔗 Data Access
 - **Part 1**: [10.5281/zenodo.16537343](https://doi.org/10.5281/zenodo.16537343)  
 - **Part 2**: [10.5281/zenodo.16738607](https://doi.org/10.5281/zenodo.16738607)  
 - **Part 3**: [10.5281/zenodo.16783212](https://doi.org/10.5281/zenodo.16783212)  
@@ -18,3 +18,18 @@ This dataset provides **global** sun-induced chlorophyll fluorescence (SIF) retr
 - **Part 6**: [10.5281/zenodo.16783231](https://doi.org/10.5281/zenodo.16783231)
 
 ---
+
+## 📄 Citation
+
+Please cite the following paper when using this dataset:
+
+> **Li, D., Chen, J.M., Duveiller, G., Frankenberg, C., Köhler, P., & Yu, K.** (2025).  
+> A more precise retrieval of sun-induced chlorophyll fluorescence from satellite data using artificial neural networks.  
+
+
+---
+
+## 📬 Contact
+
+For questions or feedback, please contact:  
+**Dong Li** (dongmath.li@tum.de)
