@@ -1,6 +1,6 @@
 # Sentinel-5P-TROPOMI-ANNSIF
 
-**Global Sun-Induced Chlorophyll Fluorescence (SIF) Retrievals from TROPOMI/Sentinel‑5P Radiance Using Artificial Neural Networks (ANN)**
+**Links to global SIF retrievals from Sentinel-5P TROPOMI on Zenodo**
 
 ---
 
